@@ -1,0 +1,37 @@
+Title: Norfolk Island
+
+----
+
+Country: Australia
+
+----
+
+Shortcode: ORF
+
+----
+
+Date: 2010-12-23
+
+----
+
+Introheader: 
+
+----
+
+Introtext: 
+
+----
+
+Text: 
+
+----
+
+Headerimage: 101225-0045.jpg
+
+----
+
+Headercontrast: m
+
+----
+
+Headerfont: Life Savers

@@ -1,0 +1,45 @@
+Title: Bendalong
+
+----
+
+Country: Australia
+
+----
+
+Shortcode: bdy
+
+----
+
+Date: 2014-12-28
+
+----
+
+Introheader: Southern Peace
+
+----
+
+Introtext: Secluded some way away from me, right down in the heart of the Conjola State Forest, lies a tiny little slice of beach, with a smattering of houses...
+
+----
+
+Text: 
+
+Staying with Emily's family, practically living with them, in their family house down there, show the intense connection they feel to this area. As a visitor to such a tiny community, I almost felt out of place - it was certainly a day or so until I felt as if I was permitted to be living in the paradise.
+
+Put it this way, though: the entire trip was spectacular enough that I neglected my camera. I purposefully chose to leave it behind whenever we left the house, to simply take in the majesty of little Bendy.
+
+# The Long Way 'Round
+
+Getting back from Bendy was one of the best things I've ever done. Taking what turned out to be a rather sizeable detour (about five hours' worth), nonetheless.
+
+----
+
+Headerimage: map_bendalong.jpg
+
+----
+
+Headercontrast: d
+
+----
+
+Headerfont: Yesteryear
